@@ -2934,7 +2934,8 @@
 
 	#banner {
 		padding: 12em 0 10em 0;
-		background-image: url('../../images/banner.jpg');
+		/* background-image: url('../../images/banner.jpg'); */
+		background-image: url('https://ae01.alicdn.com/kf/Hbfe4351412a14c95a09aa037697c2600n.jpg');
 		background-size: cover;
 		background-position: top;
 		background-attachment: fixed;
